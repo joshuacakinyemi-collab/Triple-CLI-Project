@@ -1,0 +1,23 @@
+{
+  "name": "shoppping-list",
+  "version": "1.0.0",
+  "description": "Find instructions for completing this project at the [Marcy Lab School Docs](https://marcylabschool.gitbook.io/marcy-lab-school-docs/mod-1-javascript-fundamentals).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacakinyemi-collab/shoppping-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuacakinyemi-collab/shoppping-list/issues"
+  },
+  "homepage": "https://github.com/joshuacakinyemi-collab/shoppping-list#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
